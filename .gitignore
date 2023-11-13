@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+genres_o
+genres_5sec
+
 # C extensions
 *.so
 
